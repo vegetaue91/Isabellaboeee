@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org"
+        xmlns:image="http://google.com">
+  <url>
+    <loc>https://github.io</loc>
+    <image:image>
+      <image:loc>https://github.ioisabella-boeee.jpg</image:loc>
+      <image:title>Isabella Boeee</image:title>
+    </image:image>
+  </url>
+</urlset>
